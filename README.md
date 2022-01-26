@@ -1,4 +1,4 @@
-# Excel Kickstarter Campaign Analysis
+# Kickstarter Campaign Analysis
 
 ## Conclusions
 The purpose of this analysis was to look at a dataset of 4000 projects for Kickstarter campaigns and determine any market trends.  From this dataset, we can conclude the following:
